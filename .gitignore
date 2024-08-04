@@ -1,0 +1,7 @@
+.idea/
+__pycache__
+
+# data/**/*.txt
+# data/**/*.csv
+results/**/*.pt
+read_output.py
